@@ -30,3 +30,5 @@ Info about:
 
 ### you're welcome
 feel free to fix/optimise and add new features
+
+please ⭐ this repo if you like it
