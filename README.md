@@ -1,4 +1,5 @@
 # Discord SelfGPT
+selfbot that uses chatgpt api
 
 ## Features
 Chat history,
