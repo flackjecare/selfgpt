@@ -5,7 +5,7 @@ Chat history,
 Auto-remove first message in history if limit reached,
 Support multiple openai api keys,
 Chat presets,
-Work both on server's and dm's,
+Work on server's and dm's,
 User and channel blacklist's
 
 Info about:
@@ -20,7 +20,7 @@ Info about:
 9. Time and date
 
 ## Installation
-1. Download `selfgpt.py`
+1. [Download latest release](https://github.com/flackjecare/selfgpt/releases)
 2. Put your token in `token`
 3. Put your api key in `openai.api_key`
 4. Run `selfgpt.py`
