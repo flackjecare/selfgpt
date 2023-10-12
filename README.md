@@ -1,0 +1,2 @@
+# selfgpt
+Discord SelfGPT userbot
