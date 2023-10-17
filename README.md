@@ -21,13 +21,13 @@ Info about:
 9. Time and date
 
 ## Installation
-1. [Download latest release](https://github.com/flackjecare/selfgpt/releases)
+1. Download [latest release](https://github.com/flackjecare/selfgpt/releases)
 2. Put your token in `token`
 3. Put your api key in `openai.api_key`
 4. Run `selfgpt.py`
 
 ## Usage
-@mention userbot
+@mention userbot or reply to it message (you need @mention firstly btw)
 
 ### you're welcome
 feel free to fix/optimise and add new features
