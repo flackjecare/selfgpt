@@ -27,7 +27,7 @@ Info about:
 4. Run `selfgpt.py`
 
 ## Usage
-@mention userbot or reply to it message (you need @mention firstly btw)
+@mention userbot or reply to it message
 
 ### you're welcome
 feel free to fix/optimise and add new features
