@@ -1,4 +1,4 @@
-![](https://github.com/flackjecare/selfgpt/assets/82647686/cd997b2f-44b2-46c2-b4dc-fad269192066)
+![preview](https://github.com/flackjecare/selfgpt/assets/82647686/cd997b2f-44b2-46c2-b4dc-fad269192066)
 # Discord SelfGPT
 selfbot that uses chatgpt api
 
