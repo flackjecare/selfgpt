@@ -3,12 +3,12 @@
 selfbot that uses chatgpt api
 
 ## Features
-Chat history,
-Auto-remove first message in history if limit reached,
-Support multiple openai api keys,
-Chat presets,
-Work on server's and dm's,
-User and channel blacklist's
+- Chat history
+- History memory management
+- Support multiple openai api keys
+- Chat presets
+- Work on server's and dm's
+- User and channel blacklist's
 
 Info about:
 1. Server name
